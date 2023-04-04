@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Hometask04.04_GC_KazanovAlexandr/1.0.0": {
+        "runtime": {
+          "Hometask04.04_GC_KazanovAlexandr.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hometask04.04_GC_KazanovAlexandr/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

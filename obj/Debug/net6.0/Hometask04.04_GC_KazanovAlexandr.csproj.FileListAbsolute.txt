@@ -1,0 +1,15 @@
+E:\Programms\Hometask04.04_GC_KazanovAlexandr\bin\Debug\net6.0\Hometask04.04_GC_KazanovAlexandr.exe
+E:\Programms\Hometask04.04_GC_KazanovAlexandr\bin\Debug\net6.0\Hometask04.04_GC_KazanovAlexandr.deps.json
+E:\Programms\Hometask04.04_GC_KazanovAlexandr\bin\Debug\net6.0\Hometask04.04_GC_KazanovAlexandr.runtimeconfig.json
+E:\Programms\Hometask04.04_GC_KazanovAlexandr\bin\Debug\net6.0\Hometask04.04_GC_KazanovAlexandr.dll
+E:\Programms\Hometask04.04_GC_KazanovAlexandr\bin\Debug\net6.0\Hometask04.04_GC_KazanovAlexandr.pdb
+E:\Programms\Hometask04.04_GC_KazanovAlexandr\obj\Debug\net6.0\Hometask04.04_GC_KazanovAlexandr.csproj.AssemblyReference.cache
+E:\Programms\Hometask04.04_GC_KazanovAlexandr\obj\Debug\net6.0\Hometask04.04_GC_KazanovAlexandr.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programms\Hometask04.04_GC_KazanovAlexandr\obj\Debug\net6.0\Hometask04.04_GC_KazanovAlexandr.AssemblyInfoInputs.cache
+E:\Programms\Hometask04.04_GC_KazanovAlexandr\obj\Debug\net6.0\Hometask04.04_GC_KazanovAlexandr.AssemblyInfo.cs
+E:\Programms\Hometask04.04_GC_KazanovAlexandr\obj\Debug\net6.0\Hometask04.04_GC_KazanovAlexandr.csproj.CoreCompileInputs.cache
+E:\Programms\Hometask04.04_GC_KazanovAlexandr\obj\Debug\net6.0\Hometask04.04_GC_KazanovAlexandr.dll
+E:\Programms\Hometask04.04_GC_KazanovAlexandr\obj\Debug\net6.0\refint\Hometask04.04_GC_KazanovAlexandr.dll
+E:\Programms\Hometask04.04_GC_KazanovAlexandr\obj\Debug\net6.0\Hometask04.04_GC_KazanovAlexandr.pdb
+E:\Programms\Hometask04.04_GC_KazanovAlexandr\obj\Debug\net6.0\Hometask04.04_GC_KazanovAlexandr.genruntimeconfig.cache
+E:\Programms\Hometask04.04_GC_KazanovAlexandr\obj\Debug\net6.0\ref\Hometask04.04_GC_KazanovAlexandr.dll
